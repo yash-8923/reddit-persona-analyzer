@@ -1,0 +1,6 @@
+streamlit
+praw
+groq
+python-dotenv
+regex
+tiktoken

@@ -105,5 +105,4 @@ cython_debug/
 # Cache directory for reddit data
 reddit_cache/
 
-# Generated persona report text files
-*_reddit_persona_report.txt
+

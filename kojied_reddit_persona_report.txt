@@ -1,0 +1,100 @@
+Reddit Persona Report for u/kojied
+
+Executive Summary
+==================================================
+**CRITICAL FINDINGS**
+- The user may be experiencing anxiety or discomfort in social situations, as evidenced by their reaction to being referred to as an "old person" at a bar and their subsequent feelings of violation. source
+- The user has a tendency to overthink and rationalize their experiences, as seen in their reflection on the similarity between their own life and that of younger people in the city. source
+
+**KEY RISK FACTORS**
+- The user may be at risk of social isolation due to their tendency to overthink and rationalize their experiences, which could lead to difficulties in forming and maintaining relationships. source
+- N/A
+
+**BEHAVIORAL OVERVIEW**
+- The user has a tendency to engage in introspective and philosophical thinking, as evidenced by their comments on topics such as the nature of time and the human experience. source
+- The user is interested in learning and self-improvement, as seen in their requests for recommendations on resources for learning new skills and technologies. source
+
+**PERSONALITY HIGHLIGHTS**
+- The user is likely to be introspective and self-aware, as evidenced by their willingness to reflect on their own thoughts and emotions. source
+- The user may be a bit of a pessimist, as seen in their comments on the decline of the NFT market and the potential for social isolation. source
+
+**RECOMMENDATIONS**
+- The user may benefit from seeking out social connections and engaging in activities that promote social interaction, such as joining a club or group that aligns with their interests. source
+- The user may also benefit from practicing mindfulness and self-compassion, as a way to manage their anxiety and overthinking. source
+
+Comprehensive Persona
+==================================================
+**DEMOGRAPHICS**
+- AGE: Late 20s to early 30s [inferred based on language and cultural references]
+- OCCUPATION: Software developer or engineer [inferred based on posts about iOS development and spatial computing]
+- STATUS: Single or in a long-term relationship [inferred based on posts about relationships and self-care]
+- LOCATION: New York City or a surrounding area [inferred based on references to neighborhoods and city life]
+- ARCHETYPE: "The Tech Enthusiast" [based on posts about technology, software development, and spatial computing]
+
+## PERSONALITY TRAITS
+- Analytical [based on posts about problem-solving and strategy]
+- Humorous [based on posts with a lighthearted tone]
+- Cynical [based on posts about the NFT market and its potential]
+
+## BEHAVIOR & HABITS
+- Frequent commenter on various topics, including technology, relationships, and current events [based on multiple comments throughout the activity]
+- Engages in debates and discussions, often providing thoughtful and analytical responses [based on comments with multiple replies]
+- Posts about personal experiences and opinions, often using humor and anecdotes [based on posts about relationships and self-care]
+
+## MOTIVATIONS
+- Seeking knowledge and understanding of new technologies and trends [based on posts about spatial computing and iOS development]
+- Sharing experiences and opinions with others, often to spark discussion and debate [based on posts about relationships and current events]
+- Providing helpful advice and guidance to others [based on comments with a supportive tone]
+
+## GOALS & NEEDS
+- Staying up-to-date with the latest developments in technology and software development [based on posts about spatial computing and iOS development]
+- Building a community and connecting with others who share similar interests [based on posts about relationships and current events]
+- Finding new and innovative ways to solve problems and improve his life [based on posts about strategy and personal growth]
+
+## FRUSTRATIONS
+- Frustrated by the lack of innovation in the NFT market [based on posts about the NFT craze and its potential]
+- Annoyed by the exploitation of H1B holders [based on posts about the H1B narrative]
+- Frustrated by the inconsistencies of referees in sports [based on posts about the league and its referees]
+
+## COMMUNICATION STYLE
+- Concise and to-the-point, often using humor and anecdotes to convey his message [based on posts and comments throughout the activity]
+- Supportive and helpful, often providing thoughtful and analytical responses [based on comments with a supportive tone]
+- Confrontational and critical, often challenging others' opinions and ideas [based on comments with a critical tone]
+
+## ONLINE ACTIVITY PATTERNS
+- Typically posts and comments on weekdays, with a higher frequency on Mondays and Tuesdays [inferred based on posting and commenting patterns]
+- Frequent user of subreddits related to technology, software development, and current events [based on posts and comments throughout the activity]
+- Engages in direct replies and discussions with others, often using humor and anecdotes to convey his message [based on comments with multiple replies]
+
+Source References
+==================================================
+- source: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/ (Original ID: SRC001)
+- source: https://reddit.com/r/ManorLords/comments/1ly3nuf/my_granary_burned_down/n2r16t2/ (Original ID: SRC002)
+- source: https://reddit.com/r/ManorLords/comments/1lwfdh8/anyone_else_having_an_issue_where_their_trading/n2dn0vm/ (Original ID: SRC003)
+- source: https://reddit.com/r/ChatGPT/comments/1lvtwj3/i_used_ai_to_create_this_short_film_on_human/n2b07h0/ (Original ID: SRC004)
+- source: https://reddit.com/r/ManorLords/comments/1lse9cn/great_game_i_hope_there_is_something_new_added_in/n1i5k2p/ (Original ID: SRC005)
+- source: https://reddit.com/r/ManorLords/comments/1lse9cn/great_game_i_hope_there_is_something_new_added_in/n1i52vu/ (Original ID: SRC006)
+- source: https://reddit.com/r/ManorLords/comments/1lscpmo/how_does_influence_on_hard_work/n1hhd7z/ (Original ID: SRC007)
+- source: https://reddit.com/r/ManorLords/comments/1lq4lst/this_is_acceptable/n1089i9/ (Original ID: SRC008)
+- source: https://reddit.com/r/ManorLords/comments/1ljgy2w/confession/mzopv8i/ (Original ID: SRC009)
+- source: https://reddit.com/r/ManorLords/comments/1lihry5/am_i_doing_something_wrong_with_food_management_i/mzc2uit/ (Original ID: SRC010)
+- source: https://reddit.com/r/ManorLords/comments/1lg0qii/the_ability_to_combine_regions_or_make_aivassal/myulv47/ (Original ID: SRC011)
+- source: https://reddit.com/r/FoodNYC/comments/1lc0fio/if_you_had_to_spend_one_full_day_eating_your_way/mxxhvpf/ (Original ID: SRC012)
+- source: https://reddit.com/r/NFT/comments/1l2gcmt/nfts_in_2025_where_are_we_headed/mvt4t5c/ (Original ID: SRC013)
+- source: https://reddit.com/r/AskReddit/comments/1kz5a0n/do_you_think_millennials_generally_look_younger/mv2xf3q/ (Original ID: SRC014)
+- source: https://reddit.com/r/AskReddit/comments/1ksghx5/what_happened_on_the_first_date_that_made_you/mtnzw3v/ (Original ID: SRC015)
+- source: https://reddit.com/r/nycrail/comments/1kplupt/anyone_want_this_subway_token_wallet/mt02ziy/ (Original ID: SRC016)
+- source: https://reddit.com/r/OnePiece/comments/1kpavbs/ive_been_ripping_on_that_part_of_zoros_backstory/mswlma6/ (Original ID: SRC017)
+- source: https://reddit.com/r/OnePiece/comments/1kalm70/spotted_at_my_local_heiwado/mpo38g6/ (Original ID: SRC018)
+- source: https://reddit.com/r/RooCode/comments/1jwf8oq/heres_how_i_make_use_of_the_different_modes_in/mmih39e/ (Original ID: SRC019)
+- source: https://reddit.com/r/ChatGPT/comments/1jpagk5/to_me_the_most_impressive_new_feature_is_the/ml31o85/ (Original ID: SRC020)
+- source: https://reddit.com/r/civ5/comments/1jlw2ao/rate_my_starting_locaiton/mk73w0o/ (Original ID: SRC021)
+- source: https://reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/ (Original ID: SRC022)
+- source: https://reddit.com/r/AskReddit/comments/1hnx7lj/h1b_holders_do_you_feel_exploited_or_see_it_as_an/ (Original ID: SRC023)
+- source: https://reddit.com/r/nba/comments/1hcopxo/what_needs_to_happen_for_the_league_to_review_the/ (Original ID: SRC024)
+- source: https://reddit.com/r/Conservative/comments/1h8ddbp/are_you_guys_foragainst_banning_tiktok_in_the_us/ (Original ID: SRC025)
+- source: https://reddit.com/r/GenZ/comments/1erotgn/whats_a_movie_that_best_represents_your_childhood/ (Original ID: SRC026)
+- source: https://reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/ (Original ID: SRC027)
+- source: https://reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/ (Original ID: SRC028)
+- source: https://reddit.com/r/VisionPro/comments/1b36n83/cant_wait_for_vision_air_5_launching_in_2034_with/ (Original ID: SRC029)
+- source: https://reddit.com/r/VisionPro/comments/1alx270/watching_edgerunners_on_the_moon_feels/ (Original ID: SRC030)

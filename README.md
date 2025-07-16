@@ -56,7 +56,7 @@ GROQ_API_KEY=your_groq_api_key
 Run the Streamlit app with:
 
 ```bash
-streamlit run main.py
+streamlit run main8.py
 ```
 - This will run the project on http://localhost:8501
 
@@ -69,7 +69,7 @@ You can also test the app using the included example profiles:
 
 ## Project Structure
 
-- `main.py`: Main application script.
+- `main8.py`: Main application script.
 - `requirements.txt`: Python dependencies.
 - `reddit_cache/`: Directory for cached Reddit data (JSON files).
 - `*_reddit_persona_report.txt`: Generated user persona reports.
